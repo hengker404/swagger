@@ -1,8 +1,8 @@
 {
-    "url": "https://amirsoft.my.id/swagger/login.yaml",
+    "url": "https://raw.githubusercontent.com/hengker404/swagger/refs/heads/main/login.yaml",
     "urls": [
       {
-        "url": "https://amirsoft.my.id/swagger/login.yaml",
+        "url": "https://raw.githubusercontent.com/hengker404/swagger/refs/heads/main/login.yaml",
         "name": "Amirsoft API Login"
       }
     ]
