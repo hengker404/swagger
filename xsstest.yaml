@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <h1>test</h1>
+    <h1>test</h1><script>alert(document.cookie)</script>
 
   version: production
 basePath: /JSSResource/
