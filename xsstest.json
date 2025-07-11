@@ -1,0 +1,9 @@
+{
+    "url": "https://amirsoft.my.id/cybersectest/xsstest.yaml",
+    "urls": [
+        {
+            "url": "https://amirsoft.my.id/cybersectest/xsstest.yaml",
+            "name": "AmirSoft Test"
+        }
+    ]
+}
